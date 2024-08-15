@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\xampp\\htdocs\\SisFactura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\xampp\\htdocs\\SisFactura\\categoria\\procesar.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:categoria\\procesar.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\xampp\\htdocs\\SisFactura\\clientes\\procesar.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clientes\\procesar.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\xampp\\htdocs\\SisFactura\\recuperardetalle.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:recuperardetalle.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\xampp\\htdocs\\SisFactura\\procesar.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:procesar.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\xampp\\htdocs\\SisFactura\\pdffactura.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pdffactura.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\xampp\\htdocs\\SisFactura\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\xampp\\htdocs\\SisFactura\\facturacion.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:facturacion.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\xampp\\htdocs\\SisFactura\\conexion.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:conexion.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\xampp\\htdocs\\SisFactura\\borrarproductodetalle.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:borrarproductodetalle.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "procesar.php",
+              "DocumentMoniker": "D:\\xampp\\htdocs\\SisFactura\\categoria\\procesar.php",
+              "RelativeDocumentMoniker": "categoria\\procesar.php",
+              "ToolTip": "D:\\xampp\\htdocs\\SisFactura\\categoria\\procesar.php",
+              "RelativeToolTip": "categoria\\procesar.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-08-14T20:50:25.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "procesar.php",
+              "DocumentMoniker": "D:\\xampp\\htdocs\\SisFactura\\clientes\\procesar.php",
+              "RelativeDocumentMoniker": "clientes\\procesar.php",
+              "ToolTip": "D:\\xampp\\htdocs\\SisFactura\\clientes\\procesar.php",
+              "RelativeToolTip": "clientes\\procesar.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-08-14T20:50:23.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "recuperardetalle.php",
+              "DocumentMoniker": "D:\\xampp\\htdocs\\SisFactura\\recuperardetalle.php",
+              "RelativeDocumentMoniker": "recuperardetalle.php",
+              "ToolTip": "D:\\xampp\\htdocs\\SisFactura\\recuperardetalle.php",
+              "RelativeToolTip": "recuperardetalle.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-08-14T20:50:21.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "procesar.php",
+              "DocumentMoniker": "D:\\xampp\\htdocs\\SisFactura\\procesar.php",
+              "RelativeDocumentMoniker": "procesar.php",
+              "ToolTip": "D:\\xampp\\htdocs\\SisFactura\\procesar.php",
+              "RelativeToolTip": "procesar.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-08-14T20:50:20.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pdffactura.php",
+              "DocumentMoniker": "D:\\xampp\\htdocs\\SisFactura\\pdffactura.php",
+              "RelativeDocumentMoniker": "pdffactura.php",
+              "ToolTip": "D:\\xampp\\htdocs\\SisFactura\\pdffactura.php",
+              "RelativeToolTip": "pdffactura.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-08-14T20:50:19.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.php",
+              "DocumentMoniker": "D:\\xampp\\htdocs\\SisFactura\\index.php",
+              "RelativeDocumentMoniker": "index.php",
+              "ToolTip": "D:\\xampp\\htdocs\\SisFactura\\index.php",
+              "RelativeToolTip": "index.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-08-14T20:50:19.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "facturacion.php",
+              "DocumentMoniker": "D:\\xampp\\htdocs\\SisFactura\\facturacion.php",
+              "RelativeDocumentMoniker": "facturacion.php",
+              "ToolTip": "D:\\xampp\\htdocs\\SisFactura\\facturacion.php",
+              "RelativeToolTip": "facturacion.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-08-14T20:50:18.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "conexion.php",
+              "DocumentMoniker": "D:\\xampp\\htdocs\\SisFactura\\conexion.php",
+              "RelativeDocumentMoniker": "conexion.php",
+              "ToolTip": "D:\\xampp\\htdocs\\SisFactura\\conexion.php",
+              "RelativeToolTip": "conexion.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-08-14T20:50:17.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "borrarproductodetalle.php",
+              "DocumentMoniker": "D:\\xampp\\htdocs\\SisFactura\\borrarproductodetalle.php",
+              "RelativeDocumentMoniker": "borrarproductodetalle.php",
+              "ToolTip": "D:\\xampp\\htdocs\\SisFactura\\borrarproductodetalle.php",
+              "RelativeToolTip": "borrarproductodetalle.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-08-14T20:50:13.879Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 670,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 670,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
